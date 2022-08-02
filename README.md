@@ -1,4 +1,4 @@
-🌱 Estudando : Programação Full Stack
+Olá , sou o Matheus Lemos , jovem desenvolvedor em processo de aperfeiçoamento !!
 <div align="center">
   <a href="https://github.com/Lemos060l">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lemos060l&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
